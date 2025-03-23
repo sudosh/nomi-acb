@@ -1,0 +1,1 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 100'><rect x='10' y='20' width='80' height='60' fill='olive'/><rect x='110' y='10' width='80' height='70' fill='gray'/><rect x='210' y='5' width='80' height='85' fill='darkgreen'/><text x='10' y='15' font-size='12'>5K</text><text x='110' y='15' font-size='12'>10K</text><text x='210' y='15' font-size='12'>100K</text></svg>
