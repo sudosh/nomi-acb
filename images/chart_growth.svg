@@ -1,0 +1,1 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='400' height='120'><rect x='50' y='60' width='40' height='40' fill='olive'/><rect x='120' y='40' width='40' height='60' fill='green'/><rect x='190' y='10' width='40' height='90' fill='darkgreen'/><text x='50' y='105'>500</text><text x='120' y='105'>5K</text><text x='190' y='105'>100K</text></svg>
